@@ -1,2 +1,3 @@
 permalink: /:categories/:year/:month/:day/:title/
 title: tlanfer.de
+exclude: [ README.md ]
