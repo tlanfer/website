@@ -5,7 +5,8 @@ $accent-color: hsl(20, 90%, 50%);
 html {
   height: 100%;
   width: 100%;
-  background-image: radial-gradient(ellipse at top left, hsl(60, 0%, 80%), hsl(66, 10%, 70%));
+	background-image: radial-gradient(circle at bottom right, hsla(200, 28%, 90%, 0.6), hsl(207, 27%, 33%));
+	background-color: hsl(207, 27%, 33%);
 }
 
 body {
